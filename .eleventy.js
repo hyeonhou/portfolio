@@ -1,0 +1,1 @@
+module.exports=function(e){return e.addPassthroughCopy("css"),e.addPassthroughCopy("assets"),e.addCollection("projects",function(e){return e.getFilteredByGlob("projects/*.md")}),e.addPassthroughCopy({".nojekyll":".nojekyll"}),{dir:{input:".",output:"docs",includes:"_includes"}}};

@@ -1,0 +1,1 @@
+{"name":"portfolio","version":"1.0.0","description":"프로젝트 포트폴리오 웹사이트","main":"index.js","scripts":{"start":"eleventy --serve","build":"eleventy","clean":"rm -rf docs"},"keywords":["portfolio","eleventy","11ty","static site"],"author":"","license":"ISC","type":"commonjs","devDependencies":{"@11ty/eleventy":"^3.0.0"}}
